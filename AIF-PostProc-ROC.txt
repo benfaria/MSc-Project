@@ -1,1 +1,0 @@
-https://github.com/IBM/AIF360/blob/master/examples/demo_reject_option_classification.ipynb
